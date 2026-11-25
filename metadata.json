@@ -1,0 +1,8 @@
+{
+  "name": "7-KAIH Monitor",
+  "description": "Aplikasi Monitoring 7 Kebiasaan Anak Indonesia Hebat dengan sistem pengingat notifikasi harian guru akhir jam sekolah, radar chart komparasi siswa, papan peringkat & liga kelas piala bergilir, tren capaian 30 hari, generator umpan balik AI Gemini, sistem lencana milestone, monitoring guru, dan cetak rapor PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
